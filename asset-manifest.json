@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lending-page/static/css/main.6c2b55bb.css",
+    "main.js": "/lending-page/static/js/main.a9602980.js",
+    "static/js/787.633816a4.chunk.js": "/lending-page/static/js/787.633816a4.chunk.js",
+    "static/media/1.mp4": "/lending-page/static/media/1.068412bf8693da2d8262.mp4",
+    "static/media/spl.jpg": "/lending-page/static/media/spl.c641bc777a070dc61899.jpg",
+    "static/media/2.avif": "/lending-page/static/media/2.ebe3b9f4ba6ba051cecc.avif",
+    "index.html": "/lending-page/index.html",
+    "main.6c2b55bb.css.map": "/lending-page/static/css/main.6c2b55bb.css.map",
+    "main.a9602980.js.map": "/lending-page/static/js/main.a9602980.js.map",
+    "787.633816a4.chunk.js.map": "/lending-page/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2b55bb.css",
+    "static/js/main.a9602980.js"
+  ]
+}
